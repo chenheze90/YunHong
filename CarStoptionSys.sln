@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarStoptionSys", "CarStoptionSys\CarStoptionSys.csproj", "{4306B8FC-1592-40F2-83E0-1E1352951ABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPDA", "CarPDA\CarPDA.csproj", "{9E1610BD-0874-4AF2-A3DB-A528BAECEB29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{58445427-2572-4EAD-AF5B-F88896714E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4306B8FC-1592-40F2-83E0-1E1352951ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4306B8FC-1592-40F2-83E0-1E1352951ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4306B8FC-1592-40F2-83E0-1E1352951ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4306B8FC-1592-40F2-83E0-1E1352951ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E1610BD-0874-4AF2-A3DB-A528BAECEB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1610BD-0874-4AF2-A3DB-A528BAECEB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1610BD-0874-4AF2-A3DB-A528BAECEB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1610BD-0874-4AF2-A3DB-A528BAECEB29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58445427-2572-4EAD-AF5B-F88896714E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58445427-2572-4EAD-AF5B-F88896714E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58445427-2572-4EAD-AF5B-F88896714E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58445427-2572-4EAD-AF5B-F88896714E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
